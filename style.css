@@ -1,0 +1,48 @@
+ h4 {
+color:#5D153A;
+}  
+
+.menu{
+    display: flex;
+    justify-content:space-between;
+    background-color: #66C6CC;
+    padding: 15px;
+    font-size: 40px;
+    font-family: forte ;
+    font-weight: 0;
+    color: #CC6D66;
+}
+body{
+    margin: 0px;
+    background-color:#80E2B0;
+    
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    gap: 10px;;
+    font-family: sans-serif; 
+}
+.grid img{
+    border: 2px solid #F5C8E3;
+    border-radius: 40px;
+}
+
+.origami {
+    border-radius: 40px;
+    background-color: #E280B2;
+    padding: 30px;
+    margin: 25px;
+    width:304px;
+    font-family:'Franklin Gothic Medium';
+}
+
+
+
+
+
+
+
+
+
+
